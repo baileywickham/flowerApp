@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">flowerApp</string>
     <string name="action_settings">Settings</string>
+    <string name="new_order">New Order</string>
+    <string name="orders">Orders</string>
+    <string name="title_activity_hi_maddie">hiMaddie</string>
 </resources>
